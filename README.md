@@ -1,4 +1,4 @@
-# 💘 **RizzGPT** — Actually Good Pickup Lines, Fine-Tuned at 3AM
+# 💘 **Rizzler** — Actually Good Pickup Lines, Fine-Tuned at 3AM
 
 A large language model fine-tuned to master the ancient art of charm — and finally put an end to pickup lines like "Are you Wi-Fi? Because I'm feeling a connection."
 
@@ -19,3 +19,6 @@ This is a meme-turned-experiment. Use responsibly. Respect boundaries. Being a d
 
 future plans:
 Making my own dataset with dialogues and well you gotta look out for this one suprises coming soon or so if time allows 😎💗.
+
+🐝 Legend says this project launched and  got someone 2 Bumble matches.
+Coincidence? Please. We don't do basic here. 😌
