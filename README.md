@@ -1,4 +1,5 @@
-💘 RizzGPT — Actually Good Pickup Lines, Fine-Tuned at 3AM
+# 💘 **RizzGPT** — Actually Good Pickup Lines, Fine-Tuned at 3AM
+
 A large language model fine-tuned to master the ancient art of charm — and finally put an end to pickup lines like "Are you Wi-Fi? Because I'm feeling a connection."
 
 🤔 What Is This?
