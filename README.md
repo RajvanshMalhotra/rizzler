@@ -10,6 +10,9 @@ RizzGPT is a fine-tuned LLM specifically trained to generate pickup lines that d
 😎 Actually usable
 
 pickup lines that might just work (no guarantees, but at least they won't make people cringe).
+metrics:
+<img width="555" height="115" alt="image" src="https://github.com/user-attachments/assets/14693600-5303-434f-a848-07b94262204a" />
+
 
 ⚠️ Disclaimer
 This is a meme-turned-experiment. Use responsibly. Respect boundaries. Being a decent human > any line.
